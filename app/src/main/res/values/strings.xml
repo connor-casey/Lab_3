@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="main_txt">Enter your name</string>
+    <string name="name_txt">Welcome!</string>
+    <string name="button_txt">NEXT</string>
+    <string name="button_Thanks">Thanks!</string>
+    <string name="button_noThanks">Don\'t call me that.</string>
+    <string name="hint_text">Name</string>
+</resources>

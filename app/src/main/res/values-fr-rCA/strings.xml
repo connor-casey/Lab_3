@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="main_txt">Entrez votre nom</string>
+    <string name="name_txt">Bienvenue!</string>
+    <string name="button_txt">SUIVANT</string>
+    <string name="button_Thanks">Merci!</string>
+    <string name="button_noThanks">Ne m\'appelle pas comme ça.</string>
+    <string name="hint_text">Nom</string>
+</resources>
